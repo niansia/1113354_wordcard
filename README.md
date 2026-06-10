@@ -104,13 +104,10 @@
 
 ## 畫面預覽
 
-請將截圖放到 `docs/screenshots/` 資料夾，並依照下方檔名命名，即可在 README 中顯示。
 
 ### 主畫面
 
 ![主畫面截圖](docs/screenshots/main.png)
-
-> 截圖預留位置：請放入主畫面截圖 `docs/screenshots/main.png`
 
 ---
 
@@ -118,15 +115,11 @@
 
 ![單字卡頁面截圖](docs/screenshots/card-page.png)
 
-> 截圖預留位置：請放入單字卡頁面截圖 `docs/screenshots/card-page.png`
-
 ---
 
 ### 練習頁面
 
 ![練習頁面截圖](docs/screenshots/practice-page.png)
-
-> 截圖預留位置：請放入拼字練習與看解釋猜單字頁面截圖 `docs/screenshots/practice-page.png`
 
 ---
 
@@ -134,23 +127,18 @@
 
 ![測驗頁面截圖](docs/screenshots/quiz-page.png)
 
-> 截圖預留位置：請放入選擇題測驗頁面截圖 `docs/screenshots/quiz-page.png`
-
 ---
 
 ### 統計頁面
 
 ![統計頁面截圖](docs/screenshots/stats-page.png)
 
-> 截圖預留位置：請放入統計頁面截圖 `docs/screenshots/stats-page.png`
 
 ---
 
 ### 管理頁面
 
 ![管理頁面截圖](docs/screenshots/manage-page.png)
-
-> 截圖預留位置：請放入管理功能頁面截圖 `docs/screenshots/manage-page.png`
 
 ---
 
